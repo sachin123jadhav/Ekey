@@ -1,0 +1,35 @@
+footer{ background-color:#fff; padding:5px 0}
+.top-search{ font-size:14px; line-height:18px;display: inline-block;}
+.main-header-top h4{ color:#203864}
+.md-tabs .nav-item{border-bottom: 55px solid;border-left: 25px solid transparent;border-right: 25px solid transparent;	height: 0;	}
+.green{ border-bottom-color:#007f7f !important}
+.blue{ border-bottom-color:#8eb4d7 !important}
+.grey{ border-bottom-color:#b4b7ba !important}
+.yellow{ border-bottom-color:#d6c27d !important}
+.l-blue{ border-bottom-color:#bfcfea !important}
+.brown{ border-bottom-color:#833c0b !important}
+.form-group {  margin-bottom: 0;}
+.bg-gray{ background-color:#e1e1e1; display:block; width:100%; padding:5px 10px}
+.spanl{ display:inline-block; padding:3px; font-weight:bold}
+.spanr{ display:inline-block; padding:3px;}
+.tab-content{ margin-top:15px}
+.col-form-label{ padding:3px 0 0 15px !important}
+.bg-blue{background-color:#5b9bd5;width: 100%;border-radius: 5px;padding:5px 10px;}
+.radio label{ margin-bottom:0}
+
+ .bg-blue .f-right {background-color:#00fefe;border-radius: 50%;width: 25px;height: 25px;padding: 1px 8px;}
+.bg-blue .f-right a{color: #fff;}
+.bg-blue .f-right .fa{font-size: 12px;height: 14px;width: 8px;}
+.panel-default .panel-heading{ padding:0}
+.panel-heading h5{font-size: 15px;font-weight: bold;padding: 10px 15px;display: inline-block;margin: 0;}
+.f-right .select2-container .select2-selection--single {  height: 30px;}
+.f-right .select2-container--default .select2-selection--single .select2-selection__rendered {  line-height: 30px;}
+.f-right .form-group{ padding:3px 5px;max-width:100%; width:170px; display:inline-block}
+.f-right  .btn-icon {width: 30px;  line-height: 22px;  height: 30px;  padding: 3px;  text-align: center;}
+.panel-body{ margin-top:10px}
+.panel-heading .form-control-sm{margin:4px 5px 0 0}
+h4.modal-title{ color:#203864; text-align:center}
+.btn-icon.btn-sm{ height:30px !important; width:30px !important; line-height:24px !important; color:#fff !important;font-size: 14px;}
+.sm .select2-container .select2-selection--single { height: 30px;}
+.sm .select2-container--classic .select2-selection--single .select2-selection__rendered { line-height: 30px;}
+.sm .select2-container--classic .select2-selection--single .select2-selection__arrow {    height: 28px;}
