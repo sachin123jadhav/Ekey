@@ -78,7 +78,7 @@ label {
   text-transform: capitalize; }
 
 h6 {
-  color: #757575;
+  color: #000;
   font-weight: 500; }
 
 ul {
@@ -2975,7 +2975,7 @@ input[type="checkbox"].green.ios-switch:checked + div > div {
       Checkbox css start
 ==========================  **/
 .rkmd-checkbox {
-  color: #818181;
+  color: #000;
   font-size: 15px;
   font-weight: bold;
   letter-spacing: 0.5px;
