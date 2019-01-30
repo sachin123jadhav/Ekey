@@ -34,3 +34,5 @@ h4.modal-title{ color:#203864; text-align:center}
 .sm .select2-container--classic .select2-selection--single .select2-selection__rendered { line-height: 30px;}
 .sm .select2-container--classic .select2-selection--single .select2-selection__arrow {    height: 28px;}
 .bg-blue .form-radio label, .bg-blue .form-control-label, .bg-blue{ color:#fff}
+.drawing-canvas{ width:800px; height:280px; display:block; background-color:#deebf6}
+.field{ width:100%; text-align:center; padding:10px; cursor:move; background-color:#fff; color:#000}
